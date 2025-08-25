@@ -11,7 +11,7 @@ This project is a detailed implementation of an object detection model designed 
   * `fair.ipynb`: The primary Jupyter notebook that contains all the source code for the project, including data pipeline, model architecture, training, and evaluation.
   * `training_history_EfficientNet.json`: A JSON file that logs the performance metrics (loss, accuracy, and IoU) for both the training and validation sets across all epochs.
   * `plots.png`: A visual representation of the training and validation metrics.
-  * `pred1.png`, `pred2.png`: Example images showcasing the model's predictions on test data.
+  * `prediction.png`: Example image showcasing the model's predictions on test data.
 
 -----
 
