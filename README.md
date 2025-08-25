@@ -72,7 +72,7 @@ The `training_history_EfficientNet.json` file contains the full log of training 
 
 The `prediction.png` image provides a visual representation of the model's performance on a few test images. The plots show the ground truth (GT) bounding box in **green** and the predicted (PR) bounding box in **red**, along with the predicted class, confidence, and IoU score for each prediction.
 
-![Example Prediction 1]([https://github.com/debanjanh5402/CUB_object_detection/blob/main/predictions.png])
+![Model Prediction Visualization](https://raw.githubusercontent.com/debanjanh5402/CUB_object_detection/main/predictions.png)
 
 
 #### Classification Report
